@@ -1,0 +1,17 @@
+ul {
+  text-decoration: underline;
+}
+ul li {
+  padding: 20px;
+}
+ul li a {
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+/*# sourceMappingURL=styles.css.map */
+.nav-container{
+  background-color: deeppink;
+
+  color: deeppink;
+
+}
